@@ -1,4 +1,4 @@
 https://berserk9000.github.io/weather/
-# weather app 
+# Weather dashboard app 
 # Shows 5-day forecast for city
 ![](assets/images/weather.png)
